@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cIYKYDCEI3fMgGspQ+AcSoshjwbsaPwBhVU2wQg9zdbWn3YK/bFCSLue4L6nEnaq1hBErLNFQ89Y6smK0090Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bartl\\OneDrive\\Desktop\\OneYearOfCode\\GitHub\\Simple-Projects\\Simple-App-With-Delegates\\Simple-App-With-Delegates\\Simple-App-With-Delegates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bartl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-okienkowa-2\aplikacja-okienkowa-2\bin\Debug\aplikacja-okienkowa-2.exe.config
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-okienkowa-2\aplikacja-okienkowa-2\bin\Debug\aplikacja-okienkowa-2.exe
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-okienkowa-2\aplikacja-okienkowa-2\bin\Debug\aplikacja-okienkowa-2.pdb
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-okienkowa-2\aplikacja-okienkowa-2\obj\Debug\aplikacja-okienkowa-2.csprojAssemblyReference.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-okienkowa-2\aplikacja-okienkowa-2\obj\Debug\aplikacja_okienkowa_2.Properties.Resources.resources
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-okienkowa-2\aplikacja-okienkowa-2\obj\Debug\aplikacja-okienkowa-2.csproj.GenerateResource.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-okienkowa-2\aplikacja-okienkowa-2\obj\Debug\aplikacja-okienkowa-2.csproj.CoreCompileInputs.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-okienkowa-2\aplikacja-okienkowa-2\obj\Debug\aplikacja-okienkowa-2.exe
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-okienkowa-2\aplikacja-okienkowa-2\obj\Debug\aplikacja-okienkowa-2.pdb

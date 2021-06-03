@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace aplikacja_okienkowa_2
+namespace Simple_App_With_Delegates
 {
     public class Kontener
     {
@@ -16,9 +14,9 @@ namespace aplikacja_okienkowa_2
         }
 
         public delegate void ShowCallBack(Kontener k);
-        public void Show(ShowCallBack k) 
+        public void Show(ShowCallBack k)
         {
             k(this);
-        } 
+        }
     }
 }

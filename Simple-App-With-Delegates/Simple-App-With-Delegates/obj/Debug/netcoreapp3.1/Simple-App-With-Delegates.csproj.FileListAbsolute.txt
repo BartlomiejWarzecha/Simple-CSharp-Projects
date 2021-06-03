@@ -1,0 +1,13 @@
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\bin\Debug\netcoreapp3.1\Simple-App-With-Delegates.exe
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\bin\Debug\netcoreapp3.1\Simple-App-With-Delegates.deps.json
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\bin\Debug\netcoreapp3.1\Simple-App-With-Delegates.runtimeconfig.json
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\bin\Debug\netcoreapp3.1\Simple-App-With-Delegates.runtimeconfig.dev.json
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\bin\Debug\netcoreapp3.1\Simple-App-With-Delegates.dll
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\bin\Debug\netcoreapp3.1\Simple-App-With-Delegates.pdb
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\obj\Debug\netcoreapp3.1\Simple-App-With-Delegates.csprojAssemblyReference.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\obj\Debug\netcoreapp3.1\Simple-App-With-Delegates.AssemblyInfoInputs.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\obj\Debug\netcoreapp3.1\Simple-App-With-Delegates.AssemblyInfo.cs
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\obj\Debug\netcoreapp3.1\Simple-App-With-Delegates.csproj.CoreCompileInputs.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\obj\Debug\netcoreapp3.1\Simple-App-With-Delegates.dll
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\obj\Debug\netcoreapp3.1\Simple-App-With-Delegates.pdb
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-App-With-Delegates\Simple-App-With-Delegates\obj\Debug\netcoreapp3.1\Simple-App-With-Delegates.genruntimeconfig.cache
