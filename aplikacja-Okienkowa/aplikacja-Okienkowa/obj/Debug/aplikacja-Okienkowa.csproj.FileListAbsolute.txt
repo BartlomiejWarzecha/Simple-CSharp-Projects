@@ -1,0 +1,10 @@
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-Okienkowa\aplikacja-Okienkowa\bin\Debug\aplikacja-Okienkowa.exe.config
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-Okienkowa\aplikacja-Okienkowa\bin\Debug\aplikacja-Okienkowa.exe
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-Okienkowa\aplikacja-Okienkowa\bin\Debug\aplikacja-Okienkowa.pdb
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-Okienkowa\aplikacja-Okienkowa\obj\Debug\aplikacja-Okienkowa.csprojAssemblyReference.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-Okienkowa\aplikacja-Okienkowa\obj\Debug\aplikacja_Okienkowa.Form1.resources
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-Okienkowa\aplikacja-Okienkowa\obj\Debug\aplikacja_Okienkowa.Properties.Resources.resources
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-Okienkowa\aplikacja-Okienkowa\obj\Debug\aplikacja-Okienkowa.csproj.GenerateResource.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-Okienkowa\aplikacja-Okienkowa\obj\Debug\aplikacja-Okienkowa.csproj.CoreCompileInputs.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-Okienkowa\aplikacja-Okienkowa\obj\Debug\aplikacja-Okienkowa.exe
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\aplikacja-Okienkowa\aplikacja-Okienkowa\obj\Debug\aplikacja-Okienkowa.pdb

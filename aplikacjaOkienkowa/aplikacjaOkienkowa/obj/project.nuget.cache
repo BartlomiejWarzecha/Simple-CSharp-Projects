@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6eiMtu542ooxI8psu1YGHgMxuVDHSFmRuXSuQjyGCkP1AlUfSTo6SyrdxufB/gI9gE8CfPL+Tb1QYjlqYkqpRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bartl\\OneDrive\\Desktop\\OneYearOfCode\\GitHub\\Simple-Projects\\aplikacjaOkienkowa\\aplikacjaOkienkowa\\aplikacjaOkienkowa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bartl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

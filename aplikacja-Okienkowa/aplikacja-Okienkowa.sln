@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aplikacja-Okienkowa", "aplikacja-Okienkowa\aplikacja-Okienkowa.csproj", "{F5A97DF9-5C0B-4911-9711-F2646065E45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A97DF9-5C0B-4911-9711-F2646065E45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A97DF9-5C0B-4911-9711-F2646065E45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A97DF9-5C0B-4911-9711-F2646065E45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A97DF9-5C0B-4911-9711-F2646065E45F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F98EB9C7-DEC6-4AC9-B755-25AD5073FC4B}
+	EndGlobalSection
+EndGlobal
