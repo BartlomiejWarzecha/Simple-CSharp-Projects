@@ -1,0 +1,13 @@
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\bin\Debug\netcoreapp3.1\Simple-Event.exe
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\bin\Debug\netcoreapp3.1\Simple-Event.deps.json
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\bin\Debug\netcoreapp3.1\Simple-Event.runtimeconfig.json
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\bin\Debug\netcoreapp3.1\Simple-Event.runtimeconfig.dev.json
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\bin\Debug\netcoreapp3.1\Simple-Event.dll
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\bin\Debug\netcoreapp3.1\Simple-Event.pdb
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\obj\Debug\netcoreapp3.1\Simple-Event.csprojAssemblyReference.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\obj\Debug\netcoreapp3.1\Simple-Event.AssemblyInfoInputs.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\obj\Debug\netcoreapp3.1\Simple-Event.AssemblyInfo.cs
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\obj\Debug\netcoreapp3.1\Simple-Event.csproj.CoreCompileInputs.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\obj\Debug\netcoreapp3.1\Simple-Event.dll
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\obj\Debug\netcoreapp3.1\Simple-Event.pdb
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\GitHub\Simple-Projects\Simple-Event\Simple-Event\obj\Debug\netcoreapp3.1\Simple-Event.genruntimeconfig.cache

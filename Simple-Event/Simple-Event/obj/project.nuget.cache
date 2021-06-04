@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f9tUHPzZ/UqbXEsrrXaCBbGbPXQ/Ji33lOHZUg+HV/zOGuuNXJ80H9IXTgcrKnKE7lRgCCh9sfXEsSnt9z3vPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bartl\\OneDrive\\Desktop\\OneYearOfCode\\GitHub\\Simple-Projects\\Simple-Event\\Simple-Event\\Simple-Event.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bartl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
