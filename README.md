@@ -1,1 +1,5 @@
-# Simple-Projects
+Technologies:
+
+* ASP.NET
+* Visual Studio
+* C# 
